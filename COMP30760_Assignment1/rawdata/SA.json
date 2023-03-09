@@ -1,0 +1,412 @@
+{
+    "competition": {
+        "area": {
+            "id": 2114,
+            "name": "Italy"
+        },
+        "code": "SA",
+        "id": 2019,
+        "lastUpdated": "2021-04-17T07:19:44Z",
+        "name": "Serie A",
+        "plan": "TIER_ONE"
+    },
+    "count": 20,
+    "filters": {
+        "limit": 20
+    },
+    "scorers": [
+        {
+            "numberOfGoals": 29,
+            "player": {
+                "countryOfBirth": "Portugal",
+                "dateOfBirth": "1985-02-05",
+                "firstName": "Cristiano Ronaldo",
+                "id": 44,
+                "lastName": "dos Santos Aveiro",
+                "lastUpdated": "2021-10-13T08:04:10Z",
+                "name": "Cristiano Ronaldo",
+                "nationality": "Portugal",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 109,
+                "name": "Juventus FC"
+            }
+        },
+        {
+            "numberOfGoals": 24,
+            "player": {
+                "countryOfBirth": "Belgium",
+                "dateOfBirth": "1993-05-13",
+                "firstName": "Romelu",
+                "id": 3662,
+                "lastName": "Lukaku Menama",
+                "lastUpdated": "2021-10-13T08:04:13Z",
+                "name": "Romelu Lukaku",
+                "nationality": "Belgium",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 108,
+                "name": "FC Internazionale Milano"
+            }
+        },
+        {
+            "numberOfGoals": 22,
+            "player": {
+                "countryOfBirth": "Colombia",
+                "dateOfBirth": "1991-04-16",
+                "firstName": "Luis Fernando",
+                "id": 57,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:10:15Z",
+                "name": "Luis Muriel",
+                "nationality": "Colombia",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 102,
+                "name": "Atalanta BC"
+            }
+        },
+        {
+            "numberOfGoals": 21,
+            "player": {
+                "countryOfBirth": "Serbia",
+                "dateOfBirth": "2000-01-28",
+                "firstName": "Du\u0161an",
+                "id": 82002,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:10:05Z",
+                "name": "Du\u0161an Vlahovi\u0107",
+                "nationality": "Serbia",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 99,
+                "name": "ACF Fiorentina"
+            }
+        },
+        {
+            "numberOfGoals": 20,
+            "player": {
+                "countryOfBirth": "Italy",
+                "dateOfBirth": "1990-02-20",
+                "firstName": "Ciro",
+                "id": 2076,
+                "lastName": "Immobile",
+                "lastUpdated": "2021-10-13T08:03:51Z",
+                "name": "Ciro Immobile",
+                "nationality": "Italy",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 110,
+                "name": "SS Lazio"
+            }
+        },
+        {
+            "numberOfGoals": 20,
+            "player": {
+                "countryOfBirth": "Nigeria",
+                "dateOfBirth": "1992-05-07",
+                "firstName": "Simeon",
+                "id": 2236,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:10:48Z",
+                "name": "Simeon Nwankwo",
+                "nationality": "Nigeria",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 472,
+                "name": "FC Crotone"
+            }
+        },
+        {
+            "numberOfGoals": 19,
+            "player": {
+                "countryOfBirth": "Italy",
+                "dateOfBirth": "1991-06-04",
+                "firstName": "Lorenzo",
+                "id": 2092,
+                "lastName": "Insigne",
+                "lastUpdated": "2021-10-13T08:03:51Z",
+                "name": "Lorenzo Insigne",
+                "nationality": "Italy",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 113,
+                "name": "SSC Napoli"
+            }
+        },
+        {
+            "numberOfGoals": 17,
+            "player": {
+                "countryOfBirth": "Argentina",
+                "dateOfBirth": "1997-08-22",
+                "firstName": "Lautaro Javier",
+                "id": 3220,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:10:27Z",
+                "name": "Lautaro Mart\u00ednez",
+                "nationality": "Argentina",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 108,
+                "name": "FC Internazionale Milano"
+            }
+        },
+        {
+            "numberOfGoals": 17,
+            "player": {
+                "countryOfBirth": "Italy",
+                "dateOfBirth": "1994-08-01",
+                "firstName": "Domenico",
+                "id": 2202,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:10:46Z",
+                "name": "Domenico Berardi",
+                "nationality": "Italy",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 471,
+                "name": "US Sassuolo Calcio"
+            }
+        },
+        {
+            "numberOfGoals": 16,
+            "player": {
+                "countryOfBirth": "Brazil",
+                "dateOfBirth": "1992-03-09",
+                "firstName": "Jo\u00e3o Pedro Geraldino",
+                "id": 1907,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:10:20Z",
+                "name": "Jo\u00e3o Pedro Galv\u00e3o",
+                "nationality": "Brazil",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 104,
+                "name": "Cagliari Calcio"
+            }
+        },
+        {
+            "numberOfGoals": 15,
+            "player": {
+                "countryOfBirth": "Sweden",
+                "dateOfBirth": "1981-10-03",
+                "firstName": "Zlatan",
+                "id": 11688,
+                "lastName": "Ibrahimovic",
+                "lastUpdated": "2021-10-13T08:21:53Z",
+                "name": "Zlatan Ibrahimovic",
+                "nationality": "Sweden",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 98,
+                "name": "AC Milan"
+            }
+        },
+        {
+            "numberOfGoals": 15,
+            "player": {
+                "countryOfBirth": "Colombia",
+                "dateOfBirth": "1991-04-01",
+                "firstName": "Duv\u00e1n Esteban",
+                "id": 2271,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:10:15Z",
+                "name": "Duv\u00e1n Zapata",
+                "nationality": "Colombia",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 102,
+                "name": "Atalanta BC"
+            }
+        },
+        {
+            "numberOfGoals": 13,
+            "player": {
+                "countryOfBirth": "Italy",
+                "dateOfBirth": "1993-12-20",
+                "firstName": "Andrea",
+                "id": 2298,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:10:59Z",
+                "name": "Andrea Belotti",
+                "nationality": "Italy",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 586,
+                "name": "Torino FC"
+            }
+        },
+        {
+            "numberOfGoals": 13,
+            "player": {
+                "countryOfBirth": "Italy",
+                "dateOfBirth": "1983-01-31",
+                "firstName": "Fabio",
+                "id": 2268,
+                "lastName": "Quagliarella",
+                "lastUpdated": "2021-10-13T08:15:02Z",
+                "name": "Fabio Quagliarella",
+                "nationality": "Italy",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 584,
+                "name": "UC Sampdoria"
+            }
+        },
+        {
+            "numberOfGoals": 13,
+            "player": {
+                "countryOfBirth": "C\u00f4te d\u2019Ivoire",
+                "dateOfBirth": "1996-12-19",
+                "firstName": "Franck Yannick",
+                "id": 1747,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:10:03Z",
+                "name": "Franck Kessi\u00e9",
+                "nationality": "C\u00f4te d\u2019Ivoire",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 98,
+                "name": "AC Milan"
+            }
+        },
+        {
+            "numberOfGoals": 13,
+            "player": {
+                "countryOfBirth": "Armenia",
+                "dateOfBirth": "1989-01-21",
+                "firstName": "Henrikh",
+                "id": 7795,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:10:08Z",
+                "name": "Henrikh Mkhitaryan",
+                "nationality": "Armenia",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 100,
+                "name": "AS Roma"
+            }
+        },
+        {
+            "numberOfGoals": 11,
+            "player": {
+                "countryOfBirth": "Italy",
+                "dateOfBirth": "1991-03-20",
+                "firstName": "Mattia",
+                "id": 1888,
+                "lastName": null,
+                "lastUpdated": "2021-02-28T11:23:44Z",
+                "name": "Mattia Destro",
+                "nationality": "Italy",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 107,
+                "name": "Genoa CFC"
+            }
+        },
+        {
+            "numberOfGoals": 11,
+            "player": {
+                "countryOfBirth": "Italy",
+                "dateOfBirth": "1987-08-06",
+                "firstName": "Francesco",
+                "id": 2506,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:10:46Z",
+                "name": "Francesco Caputo",
+                "nationality": "Italy",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 471,
+                "name": "US Sassuolo Calcio"
+            }
+        },
+        {
+            "numberOfGoals": 11,
+            "player": {
+                "countryOfBirth": "Mexico",
+                "dateOfBirth": "1995-07-30",
+                "firstName": "Hirving Rodrigo",
+                "id": 3306,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:10:37Z",
+                "name": "Hirving Lozano",
+                "nationality": "Mexico",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 113,
+                "name": "SSC Napoli"
+            }
+        },
+        {
+            "numberOfGoals": 11,
+            "player": {
+                "countryOfBirth": "Spain",
+                "dateOfBirth": "1992-10-23",
+                "firstName": "\u00c1lvaro Borja",
+                "id": 7819,
+                "lastName": null,
+                "lastUpdated": "2020-11-26T02:19:40Z",
+                "name": "\u00c1lvaro Morata",
+                "nationality": "Spain",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 109,
+                "name": "Juventus FC"
+            }
+        }
+    ],
+    "season": {
+        "currentMatchday": 38,
+        "endDate": "2021-05-23",
+        "id": 638,
+        "startDate": "2020-09-20",
+        "winner": {
+            "crestUrl": "https://crests.football-data.org/108.svg",
+            "id": 108,
+            "name": "FC Internazionale Milano",
+            "shortName": "Inter",
+            "tla": "INT"
+        }
+    }
+}

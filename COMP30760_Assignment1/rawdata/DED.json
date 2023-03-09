@@ -1,0 +1,406 @@
+{
+    "competition": {
+        "area": {
+            "id": 2163,
+            "name": "Netherlands"
+        },
+        "code": "DED",
+        "id": 2003,
+        "lastUpdated": "2021-04-29T20:06:57Z",
+        "name": "Eredivisie",
+        "plan": "TIER_ONE"
+    },
+    "count": 20,
+    "filters": {
+        "limit": 20
+    },
+    "scorers": [
+        {
+            "numberOfGoals": 26,
+            "player": {
+                "countryOfBirth": "Greece",
+                "dateOfBirth": "1994-12-09",
+                "firstName": "Giorgos",
+                "id": 16677,
+                "lastName": null,
+                "lastUpdated": "2021-08-07T09:38:58Z",
+                "name": "Giorgos Giakoumakis",
+                "nationality": "Greece",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 668,
+                "name": "VVV Venlo"
+            }
+        },
+        {
+            "numberOfGoals": 19,
+            "player": {
+                "countryOfBirth": "Netherlands",
+                "dateOfBirth": "1999-01-19",
+                "firstName": "Donyell",
+                "id": 7457,
+                "lastName": null,
+                "lastUpdated": "2021-02-25T13:07:10Z",
+                "name": "Donyell Malen",
+                "nationality": "Netherlands",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 674,
+                "name": "PSV"
+            }
+        },
+        {
+            "numberOfGoals": 18,
+            "player": {
+                "countryOfBirth": "Netherlands",
+                "dateOfBirth": "1991-12-19",
+                "firstName": "Steven",
+                "id": 7478,
+                "lastName": null,
+                "lastUpdated": "2020-10-08T08:45:55Z",
+                "name": "Steven Berghuis",
+                "nationality": "Netherlands",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 675,
+                "name": "Feyenoord Rotterdam"
+            }
+        },
+        {
+            "numberOfGoals": 17,
+            "player": {
+                "countryOfBirth": "Brazil",
+                "dateOfBirth": "1999-04-07",
+                "firstName": "Danilo",
+                "id": 67903,
+                "lastName": null,
+                "lastUpdated": "2020-10-08T09:01:13Z",
+                "name": "Danilo",
+                "nationality": "Brazil",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 666,
+                "name": "FC Twente '65"
+            }
+        },
+        {
+            "numberOfGoals": 16,
+            "player": {
+                "countryOfBirth": "Netherlands",
+                "dateOfBirth": "1995-05-08",
+                "firstName": "Rai",
+                "id": 7662,
+                "lastName": null,
+                "lastUpdated": "2020-10-08T08:59:50Z",
+                "name": "Rai Vloet",
+                "nationality": "Netherlands",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 671,
+                "name": "Heracles Almelo"
+            }
+        },
+        {
+            "numberOfGoals": 15,
+            "player": {
+                "countryOfBirth": "Netherlands",
+                "dateOfBirth": "2001-01-14",
+                "firstName": "Myron",
+                "id": 7703,
+                "lastName": null,
+                "lastUpdated": "2020-10-08T08:56:36Z",
+                "name": "Myron Boadu",
+                "nationality": "Netherlands",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 682,
+                "name": "AZ"
+            }
+        },
+        {
+            "numberOfGoals": 15,
+            "player": {
+                "countryOfBirth": "Netherlands",
+                "dateOfBirth": "1998-02-28",
+                "firstName": "Teun",
+                "id": 7693,
+                "lastName": null,
+                "lastUpdated": "2020-10-08T08:56:36Z",
+                "name": "Teun Koopmeiners",
+                "nationality": "Netherlands",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 682,
+                "name": "AZ"
+            }
+        },
+        {
+            "numberOfGoals": 14,
+            "player": {
+                "countryOfBirth": "Netherlands",
+                "dateOfBirth": "1991-02-26",
+                "firstName": "Henk",
+                "id": 7429,
+                "lastName": null,
+                "lastUpdated": "2021-02-26T12:00:46Z",
+                "name": "Henk Veerman",
+                "nationality": "Netherlands",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 673,
+                "name": "SC Heerenveen"
+            }
+        },
+        {
+            "numberOfGoals": 14,
+            "player": {
+                "countryOfBirth": "Serbia",
+                "dateOfBirth": "1988-11-20",
+                "firstName": "Du\u0161an",
+                "id": 3444,
+                "lastName": null,
+                "lastUpdated": "2020-10-08T08:50:37Z",
+                "name": "Du\u0161an Tadi\u0107",
+                "nationality": "Serbia",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 678,
+                "name": "AFC Ajax"
+            }
+        },
+        {
+            "numberOfGoals": 14,
+            "player": {
+                "countryOfBirth": "Germany",
+                "dateOfBirth": "1992-02-25",
+                "firstName": "Lennart",
+                "id": 7312,
+                "lastName": null,
+                "lastUpdated": "2020-10-08T08:52:10Z",
+                "name": "Lennart Thy",
+                "nationality": "Germany",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 6806,
+                "name": "Sparta Rotterdam"
+            }
+        },
+        {
+            "numberOfGoals": 13,
+            "player": {
+                "countryOfBirth": "Netherlands",
+                "dateOfBirth": "1986-10-07",
+                "firstName": "Michael",
+                "id": 80153,
+                "lastName": null,
+                "lastUpdated": "2020-10-08T08:54:37Z",
+                "name": "Michael de Leeuw",
+                "nationality": "Netherlands",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 1914,
+                "name": "FC Emmen"
+            }
+        },
+        {
+            "numberOfGoals": 12,
+            "player": {
+                "countryOfBirth": "Netherlands",
+                "dateOfBirth": "1998-08-01",
+                "firstName": "Zian",
+                "id": 67893,
+                "lastName": null,
+                "lastUpdated": "2020-11-26T02:35:15Z",
+                "name": "Zian Flemming",
+                "nationality": "Netherlands",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 1920,
+                "name": "Fortuna Sittard"
+            }
+        },
+        {
+            "numberOfGoals": 12,
+            "player": {
+                "countryOfBirth": "Netherlands",
+                "dateOfBirth": "1993-02-21",
+                "firstName": "Davy",
+                "id": 7841,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T18:47:52Z",
+                "name": "Davy Klaassen",
+                "nationality": "Netherlands",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 678,
+                "name": "AFC Ajax"
+            }
+        },
+        {
+            "numberOfGoals": 11,
+            "player": {
+                "countryOfBirth": "Greece",
+                "dateOfBirth": "1998-11-21",
+                "firstName": "Evangelou",
+                "id": 67299,
+                "lastName": null,
+                "lastUpdated": "2020-11-26T02:29:22Z",
+                "name": "Vangelis Pavlidis",
+                "nationality": "Greece",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 672,
+                "name": "Willem II Tilburg"
+            }
+        },
+        {
+            "numberOfGoals": 11,
+            "player": {
+                "countryOfBirth": "Netherlands",
+                "dateOfBirth": "1993-03-24",
+                "firstName": "Alexander Gerard",
+                "id": 7502,
+                "lastName": null,
+                "lastUpdated": "2020-10-08T08:58:39Z",
+                "name": "Sander van de Streek",
+                "nationality": "Netherlands",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 676,
+                "name": "FC Utrecht"
+            }
+        },
+        {
+            "numberOfGoals": 11,
+            "player": {
+                "countryOfBirth": "Sweden",
+                "dateOfBirth": "1998-07-25",
+                "firstName": "Karl Jesper",
+                "id": 31243,
+                "lastName": null,
+                "lastUpdated": "2021-07-19T11:30:59Z",
+                "name": "Jesper Karlsson",
+                "nationality": "Sweden",
+                "position": "Attacker",
+                "shirtNumber": 11
+            },
+            "team": {
+                "id": 682,
+                "name": "AZ"
+            }
+        },
+        {
+            "numberOfGoals": 11,
+            "player": {
+                "countryOfBirth": "Israel",
+                "dateOfBirth": "1987-07-25",
+                "firstName": "Eran",
+                "id": 21416,
+                "lastName": null,
+                "lastUpdated": "2021-02-25T13:07:10Z",
+                "name": "Eran Zahavi",
+                "nationality": "Israel",
+                "position": "Midfielder",
+                "shirtNumber": 7
+            },
+            "team": {
+                "id": 674,
+                "name": "PSV"
+            }
+        },
+        {
+            "numberOfGoals": 11,
+            "player": {
+                "countryOfBirth": "France",
+                "dateOfBirth": "1994-06-22",
+                "firstName": "S\u00e9bastien",
+                "id": 6721,
+                "lastName": null,
+                "lastUpdated": "2020-11-12T02:23:45Z",
+                "name": "S\u00e9bastien Haller",
+                "nationality": "C\u00f4te d\u2019Ivoire",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 678,
+                "name": "AFC Ajax"
+            }
+        },
+        {
+            "numberOfGoals": 10,
+            "player": {
+                "countryOfBirth": "England",
+                "dateOfBirth": "2001-09-10",
+                "firstName": "Armando",
+                "id": 143054,
+                "lastName": null,
+                "lastUpdated": "2020-10-08T08:57:29Z",
+                "name": "Armando Broja",
+                "nationality": "Albania",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 679,
+                "name": "SBV Vitesse"
+            }
+        },
+        {
+            "numberOfGoals": 10,
+            "player": {
+                "countryOfBirth": "Belgium",
+                "dateOfBirth": "2000-02-16",
+                "firstName": "Ikoma Lo\u00efs",
+                "id": 73215,
+                "lastName": null,
+                "lastUpdated": "2020-10-08T08:57:29Z",
+                "name": "Lo\u00efs Openda",
+                "nationality": "Belgium",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 679,
+                "name": "SBV Vitesse"
+            }
+        }
+    ],
+    "season": {
+        "currentMatchday": 34,
+        "endDate": "2021-05-16",
+        "id": 615,
+        "startDate": "2020-09-12",
+        "winner": null
+    }
+}

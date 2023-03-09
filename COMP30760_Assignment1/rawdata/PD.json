@@ -1,0 +1,412 @@
+{
+    "competition": {
+        "area": {
+            "id": 2224,
+            "name": "Spain"
+        },
+        "code": "PD",
+        "id": 2014,
+        "lastUpdated": "2021-04-17T00:00:28Z",
+        "name": "Primera Division",
+        "plan": "TIER_ONE"
+    },
+    "count": 20,
+    "filters": {
+        "limit": 20
+    },
+    "scorers": [
+        {
+            "numberOfGoals": 30,
+            "player": {
+                "countryOfBirth": "Argentina",
+                "dateOfBirth": "1987-06-24",
+                "firstName": "Lionel Andr\u00e9s",
+                "id": 3218,
+                "lastName": "Messi Cuccittini",
+                "lastUpdated": "2021-10-13T08:04:01Z",
+                "name": "Lionel Messi",
+                "nationality": "Argentina",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 81,
+                "name": "FC Barcelona"
+            }
+        },
+        {
+            "numberOfGoals": 23,
+            "player": {
+                "countryOfBirth": "Spain",
+                "dateOfBirth": "1992-04-07",
+                "firstName": "Gerard",
+                "id": 32719,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:26:07Z",
+                "name": "Gerard Moreno",
+                "nationality": "Spain",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 94,
+                "name": "Villarreal CF"
+            }
+        },
+        {
+            "numberOfGoals": 23,
+            "player": {
+                "countryOfBirth": "France",
+                "dateOfBirth": "1987-12-19",
+                "firstName": "Karim",
+                "id": 49,
+                "lastName": "Benzema",
+                "lastUpdated": "2021-10-13T08:04:04Z",
+                "name": "Karim Benzema",
+                "nationality": "France",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 86,
+                "name": "Real Madrid CF"
+            }
+        },
+        {
+            "numberOfGoals": 21,
+            "player": {
+                "countryOfBirth": "Uruguay",
+                "dateOfBirth": "1987-01-24",
+                "firstName": "Luis Alberto",
+                "id": 3169,
+                "lastName": "Su\u00e1rez D\u00edaz",
+                "lastUpdated": "2021-10-13T08:03:55Z",
+                "name": "Luis Su\u00e1rez",
+                "nationality": "Uruguay",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 78,
+                "name": "Club Atl\u00e9tico de Madrid"
+            }
+        },
+        {
+            "numberOfGoals": 18,
+            "player": {
+                "countryOfBirth": "Morocco",
+                "dateOfBirth": "1997-06-01",
+                "firstName": "Youssef",
+                "id": 32836,
+                "lastName": null,
+                "lastUpdated": "2021-04-12T13:09:55Z",
+                "name": "Youssef En-Nesyri",
+                "nationality": "Morocco",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 559,
+                "name": "Sevilla FC"
+            }
+        },
+        {
+            "numberOfGoals": 16,
+            "player": {
+                "countryOfBirth": "Sweden",
+                "dateOfBirth": "1999-09-21",
+                "firstName": "Alexander",
+                "id": 6486,
+                "lastName": null,
+                "lastUpdated": "2021-05-14T16:07:11Z",
+                "name": "Alexander Isak",
+                "nationality": "Sweden",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 92,
+                "name": "Real Sociedad de F\u00fatbol"
+            }
+        },
+        {
+            "numberOfGoals": 14,
+            "player": {
+                "countryOfBirth": "Spain",
+                "dateOfBirth": "1987-08-01",
+                "firstName": "Iago",
+                "id": 3201,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:26:19Z",
+                "name": "Iago Aspas",
+                "nationality": "Spain",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 558,
+                "name": "RC Celta de Vigo"
+            }
+        },
+        {
+            "numberOfGoals": 13,
+            "player": {
+                "countryOfBirth": "Spain",
+                "dateOfBirth": "1987-07-23",
+                "firstName": "Jos\u00e9 Luis",
+                "id": 32945,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:26:02Z",
+                "name": "Jos\u00e9 Luis Morales",
+                "nationality": "Spain",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 88,
+                "name": "Levante UD"
+            }
+        },
+        {
+            "numberOfGoals": 13,
+            "player": {
+                "countryOfBirth": "Spain",
+                "dateOfBirth": "1997-06-18",
+                "firstName": "Rafael",
+                "id": 4098,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:26:18Z",
+                "name": "Rafael Mir",
+                "nationality": "Spain",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 299,
+                "name": "SD Huesca"
+            }
+        },
+        {
+            "numberOfGoals": 13,
+            "player": {
+                "countryOfBirth": "France",
+                "dateOfBirth": "1991-03-21",
+                "firstName": "Antoine",
+                "id": 114,
+                "lastName": "Griezmann",
+                "lastUpdated": "2021-10-13T08:04:04Z",
+                "name": "Antoine Griezmann",
+                "nationality": "France",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 81,
+                "name": "FC Barcelona"
+            }
+        },
+        {
+            "numberOfGoals": 12,
+            "player": {
+                "countryOfBirth": "Spain",
+                "dateOfBirth": "1989-11-25",
+                "firstName": "Enrique",
+                "id": 33358,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:26:15Z",
+                "name": "Kike Garc\u00eda",
+                "nationality": "Spain",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 278,
+                "name": "SD Eibar"
+            }
+        },
+        {
+            "numberOfGoals": 12,
+            "player": {
+                "countryOfBirth": "Spain",
+                "dateOfBirth": "1991-01-03",
+                "firstName": "Roger",
+                "id": 32947,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:26:02Z",
+                "name": "Roger Mart\u00ed",
+                "nationality": "Spain",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 88,
+                "name": "Levante UD"
+            }
+        },
+        {
+            "numberOfGoals": 12,
+            "player": {
+                "countryOfBirth": "Spain",
+                "dateOfBirth": "1995-01-30",
+                "firstName": "Marcos",
+                "id": 70,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:25:52Z",
+                "name": "Marcos Llorente",
+                "nationality": "Spain",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 78,
+                "name": "Club Atl\u00e9tico de Madrid"
+            }
+        },
+        {
+            "numberOfGoals": 12,
+            "player": {
+                "countryOfBirth": "Spain",
+                "dateOfBirth": "1995-12-07",
+                "firstName": "Santiago",
+                "id": 33151,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:26:19Z",
+                "name": "Santi Mina",
+                "nationality": "Spain",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 558,
+                "name": "RC Celta de Vigo"
+            }
+        },
+        {
+            "numberOfGoals": 11,
+            "player": {
+                "countryOfBirth": "Germany",
+                "dateOfBirth": "1990-03-27",
+                "firstName": "Jos\u00e9 Luis",
+                "id": 7938,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:26:12Z",
+                "name": "Joselu",
+                "nationality": "Spain",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 263,
+                "name": "Deportivo Alav\u00e9s"
+            }
+        },
+        {
+            "numberOfGoals": 11,
+            "player": {
+                "countryOfBirth": "Spain",
+                "dateOfBirth": "1997-04-21",
+                "firstName": "Mikel",
+                "id": 10,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:26:05Z",
+                "name": "Mikel Oiarzabal",
+                "nationality": "Spain",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 92,
+                "name": "Real Sociedad de F\u00fatbol"
+            }
+        },
+        {
+            "numberOfGoals": 11,
+            "player": {
+                "countryOfBirth": "Bosnia and Herzegovina",
+                "dateOfBirth": "1991-07-22",
+                "firstName": "Ante",
+                "id": 2237,
+                "lastName": null,
+                "lastUpdated": "2021-05-14T16:05:50Z",
+                "name": "Ante Budimir",
+                "nationality": "Croatia",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 79,
+                "name": "CA Osasuna"
+            }
+        },
+        {
+            "numberOfGoals": 11,
+            "player": {
+                "countryOfBirth": "Spain",
+                "dateOfBirth": "1997-01-02",
+                "firstName": "Carlos",
+                "id": 33148,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:26:08Z",
+                "name": "Carlos Soler",
+                "nationality": "Spain",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 95,
+                "name": "Valencia CF"
+            }
+        },
+        {
+            "numberOfGoals": 11,
+            "player": {
+                "countryOfBirth": "Spain",
+                "dateOfBirth": "1993-01-17",
+                "firstName": "Borja",
+                "id": 32056,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:26:03Z",
+                "name": "Borja Iglesias",
+                "nationality": "Spain",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 90,
+                "name": "Real Betis Balompi\u00e9"
+            }
+        },
+        {
+            "numberOfGoals": 9,
+            "player": {
+                "countryOfBirth": "Spain",
+                "dateOfBirth": "1985-05-27",
+                "firstName": "Roberto",
+                "id": 30631,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:25:58Z",
+                "name": "Soldado",
+                "nationality": "Spain",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 83,
+                "name": "Granada CF"
+            }
+        }
+    ],
+    "season": {
+        "currentMatchday": 38,
+        "endDate": "2021-05-23",
+        "id": 635,
+        "startDate": "2020-09-13",
+        "winner": {
+            "crestUrl": "https://crests.football-data.org/78.svg",
+            "id": 78,
+            "name": "Club Atl\u00e9tico de Madrid",
+            "shortName": "Atleti",
+            "tla": "ATM"
+        }
+    }
+}

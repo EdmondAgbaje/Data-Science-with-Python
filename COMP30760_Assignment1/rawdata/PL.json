@@ -1,0 +1,412 @@
+{
+    "competition": {
+        "area": {
+            "id": 2072,
+            "name": "England"
+        },
+        "code": "PL",
+        "id": 2021,
+        "lastUpdated": "2021-04-17T02:20:14Z",
+        "name": "Premier League",
+        "plan": "TIER_ONE"
+    },
+    "count": 20,
+    "filters": {
+        "limit": 20
+    },
+    "scorers": [
+        {
+            "numberOfGoals": 23,
+            "player": {
+                "countryOfBirth": "England",
+                "dateOfBirth": "1993-07-28",
+                "firstName": "Harry",
+                "id": 8004,
+                "lastName": null,
+                "lastUpdated": "2020-11-26T02:25:00Z",
+                "name": "Harry Kane",
+                "nationality": "England",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 73,
+                "name": "Tottenham Hotspur FC"
+            }
+        },
+        {
+            "numberOfGoals": 22,
+            "player": {
+                "countryOfBirth": "Egypt",
+                "dateOfBirth": "1992-06-15",
+                "firstName": "Mohamed Salah",
+                "id": 3754,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:02:43Z",
+                "name": "Mohamed Salah",
+                "nationality": "Egypt",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 64,
+                "name": "Liverpool FC"
+            }
+        },
+        {
+            "numberOfGoals": 18,
+            "player": {
+                "countryOfBirth": "Portugal",
+                "dateOfBirth": "1994-09-08",
+                "firstName": "Bruno Miguel",
+                "id": 3257,
+                "lastName": null,
+                "lastUpdated": "2021-02-25T13:37:26Z",
+                "name": "Bruno Fernandes",
+                "nationality": "Portugal",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 66,
+                "name": "Manchester United FC"
+            }
+        },
+        {
+            "numberOfGoals": 17,
+            "player": {
+                "countryOfBirth": "England",
+                "dateOfBirth": "1993-09-05",
+                "firstName": "Patrick",
+                "id": 4223,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:02:59Z",
+                "name": "Patrick Bamford",
+                "nationality": "England",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 341,
+                "name": "Leeds United FC"
+            }
+        },
+        {
+            "numberOfGoals": 17,
+            "player": {
+                "countryOfBirth": "Korea Republic",
+                "dateOfBirth": "1992-07-08",
+                "firstName": "Heungmin",
+                "id": 3343,
+                "lastName": "Son",
+                "lastUpdated": "2021-10-13T08:04:15Z",
+                "name": "Son Heungmin",
+                "nationality": "Korea Republic",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 73,
+                "name": "Tottenham Hotspur FC"
+            }
+        },
+        {
+            "numberOfGoals": 16,
+            "player": {
+                "countryOfBirth": "England",
+                "dateOfBirth": "1997-03-16",
+                "firstName": "Dominic Nathaniel",
+                "id": 7839,
+                "lastName": null,
+                "lastUpdated": "2021-07-17T08:58:47Z",
+                "name": "Dominic Calvert-Lewin",
+                "nationality": "England",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 62,
+                "name": "Everton FC"
+            }
+        },
+        {
+            "numberOfGoals": 15,
+            "player": {
+                "countryOfBirth": "England",
+                "dateOfBirth": "1987-01-11",
+                "firstName": "Jamie",
+                "id": 3330,
+                "lastName": null,
+                "lastUpdated": "2020-11-26T02:14:30Z",
+                "name": "Jamie Vardy",
+                "nationality": "England",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 338,
+                "name": "Leicester City FC"
+            }
+        },
+        {
+            "numberOfGoals": 14,
+            "player": {
+                "countryOfBirth": "England",
+                "dateOfBirth": "1995-12-30",
+                "firstName": "Ollie",
+                "id": 4444,
+                "lastName": null,
+                "lastUpdated": "2021-03-05T13:35:05Z",
+                "name": "Ollie Watkins",
+                "nationality": "England",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 58,
+                "name": "Aston Villa FC"
+            }
+        },
+        {
+            "numberOfGoals": 13,
+            "player": {
+                "countryOfBirth": "France",
+                "dateOfBirth": "1991-05-28",
+                "firstName": "Alexandre",
+                "id": 7797,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T20:49:31Z",
+                "name": "Alexandre Lacazette",
+                "nationality": "France",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 57,
+                "name": "Arsenal FC"
+            }
+        },
+        {
+            "numberOfGoals": 13,
+            "player": {
+                "countryOfBirth": "Germany",
+                "dateOfBirth": "1990-10-24",
+                "firstName": "Ilkay",
+                "id": 3182,
+                "lastName": null,
+                "lastUpdated": "2021-04-14T07:43:27Z",
+                "name": "Ilkay G\u00fcndogan",
+                "nationality": "Germany",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 65,
+                "name": "Manchester City FC"
+            }
+        },
+        {
+            "numberOfGoals": 12,
+            "player": {
+                "countryOfBirth": "England",
+                "dateOfBirth": "1992-02-27",
+                "firstName": "Callum Eddie Graham",
+                "id": 8251,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:02:48Z",
+                "name": "Callum Wilson",
+                "nationality": "England",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 67,
+                "name": "Newcastle United FC"
+            }
+        },
+        {
+            "numberOfGoals": 12,
+            "player": {
+                "countryOfBirth": "England",
+                "dateOfBirth": "1992-07-23",
+                "firstName": "Daniel William",
+                "id": 7875,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:02:57Z",
+                "name": "Danny Ings",
+                "nationality": "England",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 340,
+                "name": "Southampton FC"
+            }
+        },
+        {
+            "numberOfGoals": 12,
+            "player": {
+                "countryOfBirth": "New Zealand",
+                "dateOfBirth": "1991-12-07",
+                "firstName": "Christopher Grant",
+                "id": 8057,
+                "lastName": "Wood",
+                "lastUpdated": "2021-10-13T08:15:10Z",
+                "name": "Chris Wood",
+                "nationality": "New Zealand",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 328,
+                "name": "Burnley FC"
+            }
+        },
+        {
+            "numberOfGoals": 12,
+            "player": {
+                "countryOfBirth": "Nigeria",
+                "dateOfBirth": "1996-10-03",
+                "firstName": "Kelechi Promise",
+                "id": 3400,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:02:56Z",
+                "name": "Kelechi Iheanacho",
+                "nationality": "Nigeria",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 338,
+                "name": "Leicester City FC"
+            }
+        },
+        {
+            "numberOfGoals": 11,
+            "player": {
+                "countryOfBirth": "C\u00f4te d\u2019Ivoire",
+                "dateOfBirth": "1992-11-10",
+                "firstName": "Wilfried",
+                "id": 8162,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:03:01Z",
+                "name": "Wilfried Zaha",
+                "nationality": "C\u00f4te d\u2019Ivoire",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 354,
+                "name": "Crystal Palace FC"
+            }
+        },
+        {
+            "numberOfGoals": 11,
+            "player": {
+                "countryOfBirth": "Brazil",
+                "dateOfBirth": "1996-05-05",
+                "firstName": "Matheus Fellipe",
+                "id": 45490,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:02:51Z",
+                "name": "Matheus Pereira",
+                "nationality": "Brazil",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 74,
+                "name": "West Bromwich Albion FC"
+            }
+        },
+        {
+            "numberOfGoals": 11,
+            "player": {
+                "countryOfBirth": "Senegal",
+                "dateOfBirth": "1992-04-10",
+                "firstName": "Sadio",
+                "id": 3626,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:02:43Z",
+                "name": "Sadio Man\u00e9",
+                "nationality": "Senegal",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 64,
+                "name": "Liverpool FC"
+            }
+        },
+        {
+            "numberOfGoals": 11,
+            "player": {
+                "countryOfBirth": "England",
+                "dateOfBirth": "1997-10-31",
+                "firstName": "Marcus",
+                "id": 3331,
+                "lastName": null,
+                "lastUpdated": "2020-11-26T02:14:23Z",
+                "name": "Marcus Rashford",
+                "nationality": "England",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 66,
+                "name": "Manchester United FC"
+            }
+        },
+        {
+            "numberOfGoals": 11,
+            "player": {
+                "countryOfBirth": "Wales",
+                "dateOfBirth": "1989-07-16",
+                "firstName": "Gareth",
+                "id": 3876,
+                "lastName": null,
+                "lastUpdated": "2020-11-26T02:25:00Z",
+                "name": "Gareth Bale",
+                "nationality": "Wales",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 73,
+                "name": "Tottenham Hotspur FC"
+            }
+        },
+        {
+            "numberOfGoals": 10,
+            "player": {
+                "countryOfBirth": "France",
+                "dateOfBirth": "1989-06-18",
+                "firstName": "Pierre-Emerick Emiliano Fran\u00e7ois",
+                "id": 7801,
+                "lastName": null,
+                "lastUpdated": "2021-01-20T14:01:38Z",
+                "name": "Pierre-Emerick Aubameyang",
+                "nationality": "Gabon",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 57,
+                "name": "Arsenal FC"
+            }
+        }
+    ],
+    "season": {
+        "currentMatchday": 38,
+        "endDate": "2021-05-23",
+        "id": 619,
+        "startDate": "2020-09-12",
+        "winner": {
+            "crestUrl": "https://crests.football-data.org/65.svg",
+            "id": 65,
+            "name": "Manchester City FC",
+            "shortName": "Man City",
+            "tla": "MCI"
+        }
+    }
+}

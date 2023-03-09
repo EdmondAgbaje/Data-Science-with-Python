@@ -1,0 +1,412 @@
+{
+    "competition": {
+        "area": {
+            "id": 2072,
+            "name": "England"
+        },
+        "code": "ELC",
+        "id": 2016,
+        "lastUpdated": "2021-04-17T00:00:18Z",
+        "name": "Championship",
+        "plan": "TIER_ONE"
+    },
+    "count": 20,
+    "filters": {
+        "limit": 20
+    },
+    "scorers": [
+        {
+            "numberOfGoals": 30,
+            "player": {
+                "countryOfBirth": "England",
+                "dateOfBirth": "1996-03-16",
+                "firstName": "Ivan",
+                "id": 5453,
+                "lastName": null,
+                "lastUpdated": "2021-10-12T09:52:11Z",
+                "name": "Ivan Toney",
+                "nationality": "England",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 402,
+                "name": "Brentford FC"
+            }
+        },
+        {
+            "numberOfGoals": 28,
+            "player": {
+                "countryOfBirth": "England",
+                "dateOfBirth": "1997-02-10",
+                "firstName": "Adam James",
+                "id": 4863,
+                "lastName": null,
+                "lastUpdated": "2021-03-02T08:08:49Z",
+                "name": "Adam Armstrong",
+                "nationality": "England",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 59,
+                "name": "Blackburn Rovers FC"
+            }
+        },
+        {
+            "numberOfGoals": 26,
+            "player": {
+                "countryOfBirth": "Finland",
+                "dateOfBirth": "1990-03-29",
+                "firstName": "Teemu",
+                "id": 24121,
+                "lastName": null,
+                "lastUpdated": "2021-03-05T13:46:57Z",
+                "name": "Teemu Pukki",
+                "nationality": "Finland",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 68,
+                "name": "Norwich City FC"
+            }
+        },
+        {
+            "numberOfGoals": 20,
+            "player": {
+                "countryOfBirth": "England",
+                "dateOfBirth": "1992-08-08",
+                "firstName": "Kieffer Roberto Francisco",
+                "id": 4350,
+                "lastName": null,
+                "lastUpdated": "2021-04-16T10:38:53Z",
+                "name": "Kieffer Moore",
+                "nationality": "Wales",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 715,
+                "name": "Cardiff City FC"
+            }
+        },
+        {
+            "numberOfGoals": 19,
+            "player": {
+                "countryOfBirth": "Angola",
+                "dateOfBirth": "1993-09-04",
+                "firstName": "Lucas Eduardo",
+                "id": 11541,
+                "lastName": null,
+                "lastUpdated": "2021-03-02T08:09:15Z",
+                "name": "Lucas Jo\u00e3o",
+                "nationality": "Portugal",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 355,
+                "name": "Reading FC"
+            }
+        },
+        {
+            "numberOfGoals": 16,
+            "player": {
+                "countryOfBirth": "France",
+                "dateOfBirth": "1989-12-17",
+                "firstName": "Andr\u00e9",
+                "id": 7990,
+                "lastName": "Ayew Pel\u00e9",
+                "lastUpdated": "2021-10-13T08:04:12Z",
+                "name": "Andr\u00e9 Ayew",
+                "nationality": "Ghana",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 72,
+                "name": "Swansea City AFC"
+            }
+        },
+        {
+            "numberOfGoals": 15,
+            "player": {
+                "countryOfBirth": "Nigeria",
+                "dateOfBirth": "1997-01-31",
+                "firstName": "Arnaut",
+                "id": 9870,
+                "lastName": null,
+                "lastUpdated": "2021-03-05T13:37:06Z",
+                "name": "Arnaut Danjuma",
+                "nationality": "Netherlands",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 1044,
+                "name": "AFC Bournemouth"
+            }
+        },
+        {
+            "numberOfGoals": 15,
+            "player": {
+                "countryOfBirth": "England",
+                "dateOfBirth": "1997-09-14",
+                "firstName": "Dominic Ayodele",
+                "id": 7878,
+                "lastName": null,
+                "lastUpdated": "2021-03-05T13:37:06Z",
+                "name": "Dominic Solanke",
+                "nationality": "England",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 1044,
+                "name": "AFC Bournemouth"
+            }
+        },
+        {
+            "numberOfGoals": 15,
+            "player": {
+                "countryOfBirth": "Argentina",
+                "dateOfBirth": "1996-12-25",
+                "firstName": "Emiliano",
+                "id": 31941,
+                "lastName": null,
+                "lastUpdated": "2021-03-05T13:46:57Z",
+                "name": "Emiliano Buend\u00eda",
+                "nationality": "Argentina",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 68,
+                "name": "Norwich City FC"
+            }
+        },
+        {
+            "numberOfGoals": 14,
+            "player": {
+                "countryOfBirth": "England",
+                "dateOfBirth": "1994-07-21",
+                "firstName": "Jamal",
+                "id": 4921,
+                "lastName": null,
+                "lastUpdated": "2021-07-18T13:22:29Z",
+                "name": "Jamal Lowe",
+                "nationality": "England",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 72,
+                "name": "Swansea City AFC"
+            }
+        },
+        {
+            "numberOfGoals": 13,
+            "player": {
+                "countryOfBirth": "Senegal",
+                "dateOfBirth": "1998-02-25",
+                "firstName": "Isma\u00efla",
+                "id": 3638,
+                "lastName": null,
+                "lastUpdated": "2021-03-05T13:45:40Z",
+                "name": "Isma\u00efla Sarr",
+                "nationality": "Senegal",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 346,
+                "name": "Watford FC"
+            }
+        },
+        {
+            "numberOfGoals": 12,
+            "player": {
+                "countryOfBirth": "Australia",
+                "dateOfBirth": "1995-10-07",
+                "firstName": "Lyndon",
+                "id": 35126,
+                "lastName": null,
+                "lastUpdated": "2021-03-05T13:47:42Z",
+                "name": "Lyndon Dykes",
+                "nationality": "Scotland",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 69,
+                "name": "Queens Park Rangers FC"
+            }
+        },
+        {
+            "numberOfGoals": 12,
+            "player": {
+                "countryOfBirth": "France",
+                "dateOfBirth": "1996-02-11",
+                "firstName": "Yakou",
+                "id": 512,
+                "lastName": null,
+                "lastUpdated": "2021-03-02T08:09:15Z",
+                "name": "Yakou Me\u00eft\u00e9",
+                "nationality": "C\u00f4te d\u2019Ivoire",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 355,
+                "name": "Reading FC"
+            }
+        },
+        {
+            "numberOfGoals": 12,
+            "player": {
+                "countryOfBirth": "England",
+                "dateOfBirth": "1994-12-02",
+                "firstName": "Cauley",
+                "id": 4413,
+                "lastName": null,
+                "lastUpdated": "2021-02-24T19:17:51Z",
+                "name": "Cauley Woodrow",
+                "nationality": "England",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 357,
+                "name": "Barnsley FC"
+            }
+        },
+        {
+            "numberOfGoals": 12,
+            "player": {
+                "countryOfBirth": "England",
+                "dateOfBirth": "1994-03-23",
+                "firstName": "Nick",
+                "id": 4883,
+                "lastName": null,
+                "lastUpdated": "2021-02-24T19:18:48Z",
+                "name": "Nick Powell",
+                "nationality": "England",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 70,
+                "name": "Stoke City FC"
+            }
+        },
+        {
+            "numberOfGoals": 11,
+            "player": {
+                "countryOfBirth": "England",
+                "dateOfBirth": "1994-03-26",
+                "firstName": "Jed",
+                "id": 4380,
+                "lastName": null,
+                "lastUpdated": "2021-07-18T13:22:29Z",
+                "name": "Jed Wallace",
+                "nationality": "England",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 384,
+                "name": "Millwall FC"
+            }
+        },
+        {
+            "numberOfGoals": 10,
+            "player": {
+                "countryOfBirth": "England",
+                "dateOfBirth": "1990-12-01",
+                "firstName": "James",
+                "id": 5630,
+                "lastName": null,
+                "lastUpdated": "2021-03-02T08:08:15Z",
+                "name": "James Collins",
+                "nationality": "Republic of Ireland",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 389,
+                "name": "Luton Town FC"
+            }
+        },
+        {
+            "numberOfGoals": 10,
+            "player": {
+                "countryOfBirth": "Bermuda",
+                "dateOfBirth": "1990-06-01",
+                "firstName": "Nahki",
+                "id": 8058,
+                "lastName": null,
+                "lastUpdated": "2021-03-03T13:34:47Z",
+                "name": "Nahki Wells",
+                "nationality": "Bermuda",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 387,
+                "name": "Bristol City FC"
+            }
+        },
+        {
+            "numberOfGoals": 10,
+            "player": {
+                "countryOfBirth": "England",
+                "dateOfBirth": "1991-10-17",
+                "firstName": "Michael",
+                "id": 6473,
+                "lastName": null,
+                "lastUpdated": "2021-08-17T08:04:06Z",
+                "name": "Michael Smith",
+                "nationality": "England",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 385,
+                "name": "Rotherham United FC"
+            }
+        },
+        {
+            "numberOfGoals": 9,
+            "player": {
+                "countryOfBirth": "England",
+                "dateOfBirth": "1994-01-09",
+                "firstName": "Josh",
+                "id": 34908,
+                "lastName": null,
+                "lastUpdated": "2021-02-24T19:34:00Z",
+                "name": "Josh Windass",
+                "nationality": "England",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 345,
+                "name": "Sheffield Wednesday FC"
+            }
+        }
+    ],
+    "season": {
+        "currentMatchday": 46,
+        "endDate": "2021-05-08",
+        "id": 628,
+        "startDate": "2020-09-12",
+        "winner": {
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/en/8/8c/Norwich_City.svg",
+            "id": 68,
+            "name": "Norwich City FC",
+            "shortName": "Norwich",
+            "tla": "NOR"
+        }
+    }
+}

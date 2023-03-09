@@ -1,0 +1,406 @@
+{
+    "competition": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal"
+        },
+        "code": "PPL",
+        "id": 2017,
+        "lastUpdated": "2021-04-17T02:35:16Z",
+        "name": "Primeira Liga",
+        "plan": "TIER_ONE"
+    },
+    "count": 20,
+    "filters": {
+        "limit": 20
+    },
+    "scorers": [
+        {
+            "numberOfGoals": 24,
+            "player": {
+                "countryOfBirth": "Portugal",
+                "dateOfBirth": "1998-06-28",
+                "firstName": "Pedro Ant\u00f3nio",
+                "id": 92050,
+                "lastName": null,
+                "lastUpdated": "2021-03-05T13:33:34Z",
+                "name": "Pedro Gon\u00e7alves",
+                "nationality": "Portugal",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 498,
+                "name": "Sporting Clube de Portugal"
+            }
+        },
+        {
+            "numberOfGoals": 23,
+            "player": {
+                "countryOfBirth": "Switzerland",
+                "dateOfBirth": "1992-02-22",
+                "firstName": "Haris",
+                "id": 3482,
+                "lastName": "Seferovi\u0107",
+                "lastUpdated": "2021-10-13T08:03:57Z",
+                "name": "Haris Seferovi\u0107",
+                "nationality": "Switzerland",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 1903,
+                "name": "Sport Lisboa e Benfica"
+            }
+        },
+        {
+            "numberOfGoals": 17,
+            "player": {
+                "countryOfBirth": "Iran",
+                "dateOfBirth": "1992-07-18",
+                "firstName": "Mehdi",
+                "id": 3820,
+                "lastName": null,
+                "lastUpdated": "2021-03-05T13:48:36Z",
+                "name": "Mehdi Taremi",
+                "nationality": "Iran",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 503,
+                "name": "FC Porto"
+            }
+        },
+        {
+            "numberOfGoals": 15,
+            "player": {
+                "countryOfBirth": "Spain",
+                "dateOfBirth": "1996-02-25",
+                "firstName": "Mario",
+                "id": 33128,
+                "lastName": null,
+                "lastUpdated": "2021-08-07T07:58:37Z",
+                "name": "Mario Gonz\u00e1lez",
+                "nationality": "Spain",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 1049,
+                "name": "CD Tondela"
+            }
+        },
+        {
+            "numberOfGoals": 15,
+            "player": {
+                "countryOfBirth": "Brazil",
+                "dateOfBirth": "1995-08-15",
+                "firstName": "Carlos Alberto",
+                "id": 1627,
+                "lastName": null,
+                "lastUpdated": "2021-03-05T12:45:08Z",
+                "name": "Carlos",
+                "nationality": "Brazil",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 5530,
+                "name": "CD Santa Clara"
+            }
+        },
+        {
+            "numberOfGoals": 13,
+            "player": {
+                "countryOfBirth": "Portugal",
+                "dateOfBirth": "1992-06-02",
+                "firstName": "S\u00e9rgio Miguel",
+                "id": 15912,
+                "lastName": null,
+                "lastUpdated": "2021-03-05T13:48:36Z",
+                "name": "Sergio Oliveira",
+                "nationality": "Portugal",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 503,
+                "name": "FC Porto"
+            }
+        },
+        {
+            "numberOfGoals": 12,
+            "player": {
+                "countryOfBirth": "Portugal",
+                "dateOfBirth": "1998-01-31",
+                "firstName": "Norberto",
+                "id": 125044,
+                "lastName": null,
+                "lastUpdated": "2021-02-28T13:36:44Z",
+                "name": "Beto",
+                "nationality": "Portugal",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 5601,
+                "name": "Portimonense SC"
+            }
+        },
+        {
+            "numberOfGoals": 10,
+            "player": {
+                "countryOfBirth": "Colombia",
+                "dateOfBirth": "1997-04-13",
+                "firstName": "Zander Mateo",
+                "id": 7569,
+                "lastName": null,
+                "lastUpdated": "2021-03-05T12:44:27Z",
+                "name": "Mateo Cassierra",
+                "nationality": "Colombia",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 5568,
+                "name": "Os Belenenses Futebol"
+            }
+        },
+        {
+            "numberOfGoals": 9,
+            "player": {
+                "countryOfBirth": "Germany",
+                "dateOfBirth": "1991-05-30",
+                "firstName": "Rodrigo Cunha",
+                "id": 45350,
+                "lastName": null,
+                "lastUpdated": "2021-02-28T13:35:51Z",
+                "name": "Rodrigo Pinho",
+                "nationality": "Brazil",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 5575,
+                "name": "CS Mar\u00edtimo"
+            }
+        },
+        {
+            "numberOfGoals": 9,
+            "player": {
+                "countryOfBirth": "Brazil",
+                "dateOfBirth": "1999-12-23",
+                "firstName": "Samuel",
+                "id": 124838,
+                "lastName": null,
+                "lastUpdated": "2021-02-28T13:33:43Z",
+                "name": "Samuel",
+                "nationality": "Brazil",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 5533,
+                "name": "Gil Vicente FC"
+            }
+        },
+        {
+            "numberOfGoals": 9,
+            "player": {
+                "countryOfBirth": "Portugal",
+                "dateOfBirth": "1994-09-15",
+                "firstName": "Ricardo Jorge Luz",
+                "id": 45401,
+                "lastName": null,
+                "lastUpdated": "2021-02-25T13:23:10Z",
+                "name": "Ricardo Horta",
+                "nationality": "Portugal",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 5613,
+                "name": "Sporting Clube de Braga"
+            }
+        },
+        {
+            "numberOfGoals": 9,
+            "player": {
+                "countryOfBirth": "Brazil",
+                "dateOfBirth": "1993-10-27",
+                "firstName": "Douglas Willian",
+                "id": 79851,
+                "lastName": null,
+                "lastUpdated": "2021-03-05T13:48:51Z",
+                "name": "Douglas Tanque",
+                "nationality": "Brazil",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 507,
+                "name": "FC Pa\u00e7os de Ferreira"
+            }
+        },
+        {
+            "numberOfGoals": 9,
+            "player": {
+                "countryOfBirth": "Scotland",
+                "dateOfBirth": "1995-12-16",
+                "firstName": "Ryan",
+                "id": 45253,
+                "lastName": null,
+                "lastUpdated": "2021-03-05T12:46:01Z",
+                "name": "Ryan Gauld",
+                "nationality": "Scotland",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 5602,
+                "name": "SC Farense"
+            }
+        },
+        {
+            "numberOfGoals": 9,
+            "player": {
+                "countryOfBirth": "Cameroon",
+                "dateOfBirth": "1993-12-06",
+                "firstName": "Diederrick Jo\u00ebl",
+                "id": 45354,
+                "lastName": null,
+                "lastUpdated": "2021-02-28T13:35:51Z",
+                "name": "Jo\u00ebl Tagueu",
+                "nationality": "Cameroon",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 5575,
+                "name": "CS Mar\u00edtimo"
+            }
+        },
+        {
+            "numberOfGoals": 8,
+            "player": {
+                "countryOfBirth": "Honduras",
+                "dateOfBirth": "1996-02-12",
+                "firstName": "Alberth Josu\u00e9",
+                "id": 77087,
+                "lastName": null,
+                "lastUpdated": "2021-03-05T13:50:48Z",
+                "name": "Alberth Elis",
+                "nationality": "Honduras",
+                "position": "Attacker",
+                "shirtNumber": 7
+            },
+            "team": {
+                "id": 810,
+                "name": "Boavista FC"
+            }
+        },
+        {
+            "numberOfGoals": 8,
+            "player": {
+                "countryOfBirth": "Colombia",
+                "dateOfBirth": "1996-09-29",
+                "firstName": "Oscar Eduardo",
+                "id": 37451,
+                "lastName": null,
+                "lastUpdated": "2021-03-05T13:27:47Z",
+                "name": "Oscar Estupi\u00f1\u00e1n",
+                "nationality": "Colombia",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 5543,
+                "name": "Vit\u00f3ria SC"
+            }
+        },
+        {
+            "numberOfGoals": 8,
+            "player": {
+                "countryOfBirth": "Spain",
+                "dateOfBirth": "1997-06-30",
+                "firstName": "Antonio",
+                "id": 11733,
+                "lastName": null,
+                "lastUpdated": "2021-03-05T13:48:36Z",
+                "name": "Toni Mart\u00ednez",
+                "nationality": "Spain",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 503,
+                "name": "FC Porto"
+            }
+        },
+        {
+            "numberOfGoals": 8,
+            "player": {
+                "countryOfBirth": "Gambia",
+                "dateOfBirth": "1994-01-03",
+                "firstName": "Yusupha Om",
+                "id": 45524,
+                "lastName": null,
+                "lastUpdated": "2021-03-05T13:50:48Z",
+                "name": "Yusupha Njie",
+                "nationality": "Gambia",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 810,
+                "name": "Boavista FC"
+            }
+        },
+        {
+            "numberOfGoals": 7,
+            "player": {
+                "countryOfBirth": "Germany",
+                "dateOfBirth": "1996-05-19",
+                "firstName": "Gian-Luca",
+                "id": 6537,
+                "lastName": null,
+                "lastUpdated": "2021-02-25T14:22:19Z",
+                "name": "Gian-Luca Waldschmidt",
+                "nationality": "Germany",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 1903,
+                "name": "Sport Lisboa e Benfica"
+            }
+        },
+        {
+            "numberOfGoals": 7,
+            "player": {
+                "countryOfBirth": "Brazil",
+                "dateOfBirth": "1996-03-22",
+                "firstName": "\u00c9verton",
+                "id": 1159,
+                "lastName": null,
+                "lastUpdated": "2021-02-25T14:22:19Z",
+                "name": "\u00c9verton",
+                "nationality": "Brazil",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 1903,
+                "name": "Sport Lisboa e Benfica"
+            }
+        }
+    ],
+    "season": {
+        "currentMatchday": 34,
+        "endDate": "2021-05-19",
+        "id": 644,
+        "startDate": "2020-09-20",
+        "winner": null
+    }
+}

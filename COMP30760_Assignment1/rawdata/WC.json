@@ -1,0 +1,412 @@
+{
+    "competition": {
+        "area": {
+            "id": 2267,
+            "name": "World"
+        },
+        "code": "WC",
+        "id": 2000,
+        "lastUpdated": "2020-09-10T13:58:14Z",
+        "name": "FIFA World Cup",
+        "plan": "TIER_ONE"
+    },
+    "count": 20,
+    "filters": {
+        "limit": 20
+    },
+    "scorers": [
+        {
+            "numberOfGoals": 6,
+            "player": {
+                "countryOfBirth": "England",
+                "dateOfBirth": "1993-07-28",
+                "firstName": "Harry",
+                "id": 8004,
+                "lastName": null,
+                "lastUpdated": "2020-11-26T02:25:00Z",
+                "name": "Harry Kane",
+                "nationality": "England",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 770,
+                "name": "England"
+            }
+        },
+        {
+            "numberOfGoals": 4,
+            "player": {
+                "countryOfBirth": "Russia",
+                "dateOfBirth": "1990-12-26",
+                "firstName": "Denis",
+                "id": 3690,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:26:08Z",
+                "name": "Denis Cheryshev",
+                "nationality": "Russia",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 808,
+                "name": "Russia"
+            }
+        },
+        {
+            "numberOfGoals": 4,
+            "player": {
+                "countryOfBirth": "Portugal",
+                "dateOfBirth": "1985-02-05",
+                "firstName": "Cristiano Ronaldo",
+                "id": 44,
+                "lastName": "dos Santos Aveiro",
+                "lastUpdated": "2021-10-13T08:04:10Z",
+                "name": "Cristiano Ronaldo",
+                "nationality": "Portugal",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 765,
+                "name": "Portugal"
+            }
+        },
+        {
+            "numberOfGoals": 4,
+            "player": {
+                "countryOfBirth": "France",
+                "dateOfBirth": "1991-03-21",
+                "firstName": "Antoine",
+                "id": 114,
+                "lastName": "Griezmann",
+                "lastUpdated": "2021-10-13T08:04:04Z",
+                "name": "Antoine Griezmann",
+                "nationality": "France",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 773,
+                "name": "France"
+            }
+        },
+        {
+            "numberOfGoals": 4,
+            "player": {
+                "countryOfBirth": "Belgium",
+                "dateOfBirth": "1993-05-13",
+                "firstName": "Romelu",
+                "id": 3662,
+                "lastName": "Lukaku Menama",
+                "lastUpdated": "2021-10-13T08:04:13Z",
+                "name": "Romelu Lukaku",
+                "nationality": "Belgium",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 805,
+                "name": "Belgium"
+            }
+        },
+        {
+            "numberOfGoals": 4,
+            "player": {
+                "countryOfBirth": "France",
+                "dateOfBirth": "1998-12-20",
+                "firstName": "Kylian Sanmi",
+                "id": 3374,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:05:24Z",
+                "name": "Kylian Mbapp\u00e9",
+                "nationality": "France",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 773,
+                "name": "France"
+            }
+        },
+        {
+            "numberOfGoals": 3,
+            "player": {
+                "countryOfBirth": "Russia",
+                "dateOfBirth": "1988-08-22",
+                "firstName": "Artem",
+                "id": 8834,
+                "lastName": null,
+                "lastUpdated": "2021-05-14T13:25:49Z",
+                "name": "Artem Dzyuba",
+                "nationality": "Russia",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 808,
+                "name": "Russia"
+            }
+        },
+        {
+            "numberOfGoals": 3,
+            "player": {
+                "countryOfBirth": "Brazil",
+                "dateOfBirth": "1988-10-07",
+                "firstName": "Diego",
+                "id": 113,
+                "lastName": "Da Silva Costa",
+                "lastUpdated": "2021-10-13T08:03:46Z",
+                "name": "Diego Costa",
+                "nationality": "Spain",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 760,
+                "name": "Spain"
+            }
+        },
+        {
+            "numberOfGoals": 3,
+            "player": {
+                "countryOfBirth": "Belgium",
+                "dateOfBirth": "1991-01-07",
+                "firstName": "Eden",
+                "id": 3653,
+                "lastName": "Hazard",
+                "lastUpdated": "2021-10-13T08:04:13Z",
+                "name": "Eden Hazard",
+                "nationality": "Belgium",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 805,
+                "name": "Belgium"
+            }
+        },
+        {
+            "numberOfGoals": 3,
+            "player": {
+                "countryOfBirth": "Colombia",
+                "dateOfBirth": "1994-09-23",
+                "firstName": "Yerry Fernando",
+                "id": 3728,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T20:49:36Z",
+                "name": "Yerry Mina",
+                "nationality": "Colombia",
+                "position": "Defender",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 818,
+                "name": "Colombia"
+            }
+        },
+        {
+            "numberOfGoals": 3,
+            "player": {
+                "countryOfBirth": "Uruguay",
+                "dateOfBirth": "1987-02-14",
+                "firstName": "Edinson Roberto",
+                "id": 3170,
+                "lastName": "Cavani G\u00f3mez",
+                "lastUpdated": "2021-10-13T08:03:55Z",
+                "name": "Edinson Cavani",
+                "nationality": "Uruguay",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 758,
+                "name": "Uruguay"
+            }
+        },
+        {
+            "numberOfGoals": 3,
+            "player": {
+                "countryOfBirth": "Croatia",
+                "dateOfBirth": "1989-02-02",
+                "firstName": "Ivan",
+                "id": 2004,
+                "lastName": "Peri\u0161i\u0107",
+                "lastUpdated": "2021-10-13T08:03:44Z",
+                "name": "Ivan Peri\u0161i\u0107",
+                "nationality": "Croatia",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 799,
+                "name": "Croatia"
+            }
+        },
+        {
+            "numberOfGoals": 3,
+            "player": {
+                "countryOfBirth": "Croatia",
+                "dateOfBirth": "1986-05-21",
+                "firstName": "Mario",
+                "id": 2045,
+                "lastName": "Mand\u017euki\u0107",
+                "lastUpdated": "2021-10-13T08:04:21Z",
+                "name": "Mario Mand\u017euki\u0107",
+                "nationality": "Croatia",
+                "position": "Attacker",
+                "shirtNumber": 17
+            },
+            "team": {
+                "id": 799,
+                "name": "Croatia"
+            }
+        },
+        {
+            "numberOfGoals": 2,
+            "player": {
+                "countryOfBirth": "Australia",
+                "dateOfBirth": "1984-08-03",
+                "firstName": "Michael John 'Mile'",
+                "id": 3414,
+                "lastName": "Jedinak",
+                "lastUpdated": "2021-10-13T08:03:49Z",
+                "name": "Mile Jedinak",
+                "nationality": "Australia",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 779,
+                "name": "Australia"
+            }
+        },
+        {
+            "numberOfGoals": 2,
+            "player": {
+                "countryOfBirth": "Argentina",
+                "dateOfBirth": "1988-06-02",
+                "firstName": "Sergio Leonel",
+                "id": 7891,
+                "lastName": "Ag\u00fcero del Castillo",
+                "lastUpdated": "2021-10-13T08:04:01Z",
+                "name": "Sergio Ag\u00fcero",
+                "nationality": "Argentina",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 762,
+                "name": "Argentina"
+            }
+        },
+        {
+            "numberOfGoals": 2,
+            "player": {
+                "countryOfBirth": "Croatia",
+                "dateOfBirth": "1985-09-09",
+                "firstName": "Luka",
+                "id": 43,
+                "lastName": "Modri\u0107",
+                "lastUpdated": "2021-10-13T08:03:44Z",
+                "name": "Luka Modri\u0107",
+                "nationality": "Croatia",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 799,
+                "name": "Croatia"
+            }
+        },
+        {
+            "numberOfGoals": 2,
+            "player": {
+                "countryOfBirth": "Brazil",
+                "dateOfBirth": "1992-06-12",
+                "firstName": "Philippe",
+                "id": 3228,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:25:55Z",
+                "name": "Philippe Coutinho",
+                "nationality": "Brazil",
+                "position": "Midfielder",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 764,
+                "name": "Brazil"
+            }
+        },
+        {
+            "numberOfGoals": 2,
+            "player": {
+                "countryOfBirth": "Sweden",
+                "dateOfBirth": "1985-04-16",
+                "firstName": "Andreas",
+                "id": 3488,
+                "lastName": null,
+                "lastUpdated": "2021-05-26T10:29:20Z",
+                "name": "Andreas Granqvist",
+                "nationality": "Sweden",
+                "position": "Defender",
+                "shirtNumber": 4
+            },
+            "team": {
+                "id": 792,
+                "name": "Sweden"
+            }
+        },
+        {
+            "numberOfGoals": 2,
+            "player": {
+                "countryOfBirth": "Egypt",
+                "dateOfBirth": "1992-06-15",
+                "firstName": "Mohamed Salah",
+                "id": 3754,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:02:43Z",
+                "name": "Mohamed Salah",
+                "nationality": "Egypt",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 825,
+                "name": "Egypt"
+            }
+        },
+        {
+            "numberOfGoals": 2,
+            "player": {
+                "countryOfBirth": "Uruguay",
+                "dateOfBirth": "1987-01-24",
+                "firstName": "Luis Alberto",
+                "id": 3169,
+                "lastName": "Su\u00e1rez D\u00edaz",
+                "lastUpdated": "2021-10-13T08:03:55Z",
+                "name": "Luis Su\u00e1rez",
+                "nationality": "Uruguay",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 758,
+                "name": "Uruguay"
+            }
+        }
+    ],
+    "season": {
+        "currentMatchday": 3,
+        "endDate": "2018-07-15",
+        "id": 1,
+        "startDate": "2018-06-14",
+        "winner": {
+            "crestUrl": "https://crests.football-data.org/773.svg",
+            "id": 773,
+            "name": "France",
+            "shortName": "France",
+            "tla": "FRA"
+        }
+    }
+}

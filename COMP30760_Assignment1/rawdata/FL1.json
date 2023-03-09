@@ -1,0 +1,406 @@
+{
+    "competition": {
+        "area": {
+            "id": 2081,
+            "name": "France"
+        },
+        "code": "FL1",
+        "id": 2015,
+        "lastUpdated": "2021-04-17T07:19:40Z",
+        "name": "Ligue 1",
+        "plan": "TIER_ONE"
+    },
+    "count": 20,
+    "filters": {
+        "limit": 20
+    },
+    "scorers": [
+        {
+            "numberOfGoals": 27,
+            "player": {
+                "countryOfBirth": "France",
+                "dateOfBirth": "1998-12-20",
+                "firstName": "Kylian Sanmi",
+                "id": 3374,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:05:24Z",
+                "name": "Kylian Mbapp\u00e9",
+                "nationality": "France",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 524,
+                "name": "Paris Saint-Germain FC"
+            }
+        },
+        {
+            "numberOfGoals": 21,
+            "player": {
+                "countryOfBirth": "Netherlands",
+                "dateOfBirth": "1994-02-13",
+                "firstName": "Memphis",
+                "id": 8472,
+                "lastName": "Depay",
+                "lastUpdated": "2021-10-13T08:03:46Z",
+                "name": "Memphis Depay",
+                "nationality": "Netherlands",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 523,
+                "name": "Olympique Lyonnais"
+            }
+        },
+        {
+            "numberOfGoals": 20,
+            "player": {
+                "countryOfBirth": "France",
+                "dateOfBirth": "1990-08-12",
+                "firstName": "Wissam",
+                "id": 73,
+                "lastName": null,
+                "lastUpdated": "2021-02-28T03:25:32Z",
+                "name": "Wissam Ben Yedder",
+                "nationality": "France",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 548,
+                "name": "AS Monaco FC"
+            }
+        },
+        {
+            "numberOfGoals": 16,
+            "player": {
+                "countryOfBirth": "France",
+                "dateOfBirth": "1994-05-03",
+                "firstName": "Ga\u00ebtan",
+                "id": 8517,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:05:18Z",
+                "name": "Ga\u00ebtan Laborde",
+                "nationality": "France",
+                "position": "Attacker",
+                "shirtNumber": 10
+            },
+            "team": {
+                "id": 518,
+                "name": "Montpellier HSC"
+            }
+        },
+        {
+            "numberOfGoals": 16,
+            "player": {
+                "countryOfBirth": "Turkey",
+                "dateOfBirth": "1985-07-15",
+                "firstName": "Burak",
+                "id": 30323,
+                "lastName": null,
+                "lastUpdated": "2020-11-26T02:02:45Z",
+                "name": "Burak Y\u0131lmaz",
+                "nationality": "Turkey",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 521,
+                "name": "Lille OSC"
+            }
+        },
+        {
+            "numberOfGoals": 16,
+            "player": {
+                "countryOfBirth": "Reunion",
+                "dateOfBirth": "1994-02-25",
+                "firstName": "Ludovic",
+                "id": 723,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:05:44Z",
+                "name": "Ludovic Ajorque",
+                "nationality": "Reunion",
+                "position": "Attacker",
+                "shirtNumber": 25
+            },
+            "team": {
+                "id": 576,
+                "name": "RC Strasbourg Alsace"
+            }
+        },
+        {
+            "numberOfGoals": 16,
+            "player": {
+                "countryOfBirth": "Germany",
+                "dateOfBirth": "1992-07-30",
+                "firstName": "Kevin",
+                "id": 150,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:05:41Z",
+                "name": "Kevin Volland",
+                "nationality": "Germany",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 548,
+                "name": "AS Monaco FC"
+            }
+        },
+        {
+            "numberOfGoals": 15,
+            "player": {
+                "countryOfBirth": "France",
+                "dateOfBirth": "1991-10-09",
+                "firstName": "Andy",
+                "id": 8308,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:05:18Z",
+                "name": "Andy Delort",
+                "nationality": "Algeria",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 518,
+                "name": "Montpellier HSC"
+            }
+        },
+        {
+            "numberOfGoals": 14,
+            "player": {
+                "countryOfBirth": "France",
+                "dateOfBirth": "1996-11-16",
+                "firstName": "Boulaye",
+                "id": 98299,
+                "lastName": null,
+                "lastUpdated": "2020-10-15T02:03:01Z",
+                "name": "Boulaye Dia",
+                "nationality": "Senegal",
+                "position": "Midfielder",
+                "shirtNumber": 11
+            },
+            "team": {
+                "id": 547,
+                "name": "Stade de Reims"
+            }
+        },
+        {
+            "numberOfGoals": 14,
+            "player": {
+                "countryOfBirth": "Nigeria",
+                "dateOfBirth": "1999-05-25",
+                "firstName": "Terem Igobor",
+                "id": 113427,
+                "lastName": null,
+                "lastUpdated": "2021-02-28T13:51:49Z",
+                "name": "Terem Moffi",
+                "nationality": "Nigeria",
+                "position": "Attacker",
+                "shirtNumber": 20
+            },
+            "team": {
+                "id": 525,
+                "name": "FC Lorient"
+            }
+        },
+        {
+            "numberOfGoals": 14,
+            "player": {
+                "countryOfBirth": "France",
+                "dateOfBirth": "1992-09-14",
+                "firstName": "Karl",
+                "id": 8655,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:05:22Z",
+                "name": "Karl Toko Ekambi",
+                "nationality": "Cameroon",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 523,
+                "name": "Olympique Lyonnais"
+            }
+        },
+        {
+            "numberOfGoals": 13,
+            "player": {
+                "countryOfBirth": "Italy",
+                "dateOfBirth": "2000-02-28",
+                "firstName": "Moise",
+                "id": 2171,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T20:49:36Z",
+                "name": "Moise Kean",
+                "nationality": "Italy",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 524,
+                "name": "Paris Saint-Germain FC"
+            }
+        },
+        {
+            "numberOfGoals": 13,
+            "player": {
+                "countryOfBirth": "United States",
+                "dateOfBirth": "2000-01-14",
+                "firstName": "Jonathan Christian",
+                "id": 8924,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:05:19Z",
+                "name": "Jonathan David",
+                "nationality": "Canada",
+                "position": "Attacker",
+                "shirtNumber": null
+            },
+            "team": {
+                "id": 521,
+                "name": "Lille OSC"
+            }
+        },
+        {
+            "numberOfGoals": 12,
+            "player": {
+                "countryOfBirth": "France",
+                "dateOfBirth": "2000-02-16",
+                "firstName": "Amine",
+                "id": 8476,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:05:21Z",
+                "name": "Amine Gouiri",
+                "nationality": "France",
+                "position": "Attacker",
+                "shirtNumber": 11
+            },
+            "team": {
+                "id": 522,
+                "name": "OGC Nice"
+            }
+        },
+        {
+            "numberOfGoals": 12,
+            "player": {
+                "countryOfBirth": "Korea Republic",
+                "dateOfBirth": "1992-08-28",
+                "firstName": "Uijo",
+                "id": 44019,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:05:27Z",
+                "name": "Hwang Uijo",
+                "nationality": "Korea Republic",
+                "position": "Attacker",
+                "shirtNumber": 18
+            },
+            "team": {
+                "id": 526,
+                "name": "FC Girondins de Bordeaux"
+            }
+        },
+        {
+            "numberOfGoals": 11,
+            "player": {
+                "countryOfBirth": "France",
+                "dateOfBirth": "1991-06-21",
+                "firstName": "Ga\u00ebl",
+                "id": 8596,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:05:38Z",
+                "name": "Ga\u00ebl Kakuta",
+                "nationality": "Congo DR",
+                "position": "Midfielder",
+                "shirtNumber": 10
+            },
+            "team": {
+                "id": 546,
+                "name": "Racing Club de Lens"
+            }
+        },
+        {
+            "numberOfGoals": 11,
+            "player": {
+                "countryOfBirth": "France",
+                "dateOfBirth": "1993-03-14",
+                "firstName": "Renaud",
+                "id": 851,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:05:42Z",
+                "name": "Renaud Ripart",
+                "nationality": "France",
+                "position": "Midfielder",
+                "shirtNumber": 20
+            },
+            "team": {
+                "id": 556,
+                "name": "N\u00eemes Olympique"
+            }
+        },
+        {
+            "numberOfGoals": 10,
+            "player": {
+                "countryOfBirth": "France",
+                "dateOfBirth": "1996-09-03",
+                "firstName": "Yoane",
+                "id": 612,
+                "lastName": null,
+                "lastUpdated": "2020-10-15T02:02:34Z",
+                "name": "Yoane Wissa",
+                "nationality": "Congo DR",
+                "position": "Attacker",
+                "shirtNumber": 19
+            },
+            "team": {
+                "id": 525,
+                "name": "FC Lorient"
+            }
+        },
+        {
+            "numberOfGoals": 10,
+            "player": {
+                "countryOfBirth": "France",
+                "dateOfBirth": "1996-03-12",
+                "firstName": "Sehrou",
+                "id": 211,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:05:32Z",
+                "name": "Sehrou Guirassy",
+                "nationality": "France",
+                "position": "Attacker",
+                "shirtNumber": 9
+            },
+            "team": {
+                "id": 529,
+                "name": "Stade Rennais FC 1901"
+            }
+        },
+        {
+            "numberOfGoals": 10,
+            "player": {
+                "countryOfBirth": "France",
+                "dateOfBirth": "1997-12-31",
+                "firstName": "Ludovic R\u00e9gis Ars\u00e8ne",
+                "id": 96869,
+                "lastName": null,
+                "lastUpdated": "2020-09-07T21:05:35Z",
+                "name": "Ludovic Blas",
+                "nationality": "France",
+                "position": "Midfielder",
+                "shirtNumber": 10
+            },
+            "team": {
+                "id": 543,
+                "name": "FC Nantes"
+            }
+        }
+    ],
+    "season": {
+        "currentMatchday": 38,
+        "endDate": "2021-05-23",
+        "id": 596,
+        "startDate": "2020-08-22",
+        "winner":null
+    }
+}
